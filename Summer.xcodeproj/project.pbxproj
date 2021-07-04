@@ -14,6 +14,7 @@
 		D85D01E42663C33200DDFC38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D85D01E32663C33200DDFC38 /* Assets.xcassets */; };
 		D85D01E72663C33200DDFC38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D85D01E52663C33200DDFC38 /* LaunchScreen.storyboard */; };
 		D8ADD7AB2664EA6F00CC7F05 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8ADD7AA2664EA6F00CC7F05 /* CoreImage.framework */; };
+		D8BAC52B26918D31008168D8 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8BAC52A26918D31008168D8 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D85D01E62663C33200DDFC38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D85D01E82663C33200DDFC38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D8ADD7AA2664EA6F00CC7F05 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
+		D8BAC52A26918D31008168D8 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				D85D01E32663C33200DDFC38 /* Assets.xcassets */,
 				D85D01E52663C33200DDFC38 /* LaunchScreen.storyboard */,
 				D85D01E82663C33200DDFC38 /* Info.plist */,
+				D8BAC52A26918D31008168D8 /* Images.xcassets */,
 			);
 			path = Summer;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D85D01E72663C33200DDFC38 /* LaunchScreen.storyboard in Resources */,
+				D8BAC52B26918D31008168D8 /* Images.xcassets in Resources */,
 				D85D01E42663C33200DDFC38 /* Assets.xcassets in Resources */,
 				D85D01E22663C33000DDFC38 /* Main.storyboard in Resources */,
 			);
