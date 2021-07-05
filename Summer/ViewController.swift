@@ -168,7 +168,7 @@ extension ViewController: UIImagePickerControllerDelegate & UINavigationControll
                     self?.collectionView.reloadData()
                     self?.photoViewLeading.constant = horizontalSpacing
                     self?.photoViewTrailing.constant = horizontalSpacing
-                    
+                    self?.originalImage = resizedImage
                     self?.maskView.isHidden = true
                 }
             }
