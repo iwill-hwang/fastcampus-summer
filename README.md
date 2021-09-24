@@ -1,5 +1,5 @@
-## Summer
-Analog Paris 클론 앱. 여름에 맞는 사진 필터 적용 앱을 만들어 보는 것이 목표.
+## 🖼 Summer
+사진 필터 앱이며 Analog Paris 클론 앱. 여름에 맞는 사진 필터 적용 앱을 만들어 보는 것이 목표.
 
 ## 내용
 - Storyboard 기반 앱 만들기
