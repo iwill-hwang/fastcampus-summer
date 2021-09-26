@@ -10,7 +10,7 @@
 - 이미지 처리를 위한 백그라운드 프로세싱 이해와 적용
 
 ## 최종화면
-<img width="400" alt="최종화면 1" src="Screenshots/1.png"/> <img width="400" alt="최종화면 1" src="Screenshots/2.png"/>
+<img width="240" alt="최종화면 1" src="Screenshots/1.png"/> <img width="240" alt="최종화면 1" src="Screenshots/2.png"/>
 
 ## 더 고민해봐야 할 사항
 - 필터 적용시의 성능의 저하 없이 리사이즈된 이미지가 아닌 원본 이미지에 필터를 적용해서 저장하려면 어떻게 해야 할까?
